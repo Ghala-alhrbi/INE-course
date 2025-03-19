@@ -1,1 +1,1 @@
-
+In this lab, we will efficiently organize football player data, initially provided as a list containing details such as position, name, and country, by utilizing three functions to structure and arrange the information in a more organized format.
