@@ -1,0 +1,1 @@
+This code powers a word-guessing game where a hidden word is selected, and the player guesses letters. Correct guesses reveal letters, while incorrect ones are tracked. The player wins by guessing all letters or loses if they run out of attempts.
